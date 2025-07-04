@@ -13,7 +13,9 @@
     "deploy": "gh pages -d dist"
   },
   "dependencies": {
+    "gh": "^2.8.9",
     "nanoid": "^5.1.5",
+    "pages": "^0.0.16",
     "react": "^19.1.0",
     "react-confetti": "^6.4.0",
     "react-dom": "^19.1.0",
